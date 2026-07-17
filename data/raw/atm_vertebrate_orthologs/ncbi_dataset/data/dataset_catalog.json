@@ -1,0 +1,17 @@
+{
+  "genes": {
+    "files": [
+      {
+        "filePath": "protein.faa",
+        "fileType": "PROTEIN_FASTA",
+        "uncompressedLengthBytes": "7378279"
+      },
+      {
+        "filePath": "data_report.jsonl",
+        "fileType": "DATA_REPORT",
+        "uncompressedLengthBytes": "1063590"
+      }
+    ]
+  },
+  "apiVersion": "V2"
+}
