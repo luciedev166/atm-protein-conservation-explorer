@@ -72,11 +72,3 @@ streamlit run app.py
 Run this from the project root (the folder containing `data/` and
 `figures/`) so the relative paths in `app.py` resolve correctly.
 
-## Notes for future me
-
-- If a required CSV or column goes missing, the app fails loudly with a
-  message listing what it expected vs. what it found — check
-  `check_columns()` in `app.py` if that happens.
-- The app is intentionally one file. If it grows (more pages, more data
-  sources), that's the natural point to split it into modules — not
-  before.
