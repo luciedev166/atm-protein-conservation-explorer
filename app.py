@@ -79,7 +79,7 @@ st.set_page_config(
     layout="wide",
 )
 
-st.title("🧬 ATM Protein Conservation Explorer")
+st.title("ATM Protein Conservation Explorer")
 
 st.write(
     "Explore how conserved each ATM missense variant position is across "
